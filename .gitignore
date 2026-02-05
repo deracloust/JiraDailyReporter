@@ -39,6 +39,10 @@ ScaffoldingReadMe.txt
 .vs/
 # Project
 .project/
+# AppSettings
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
 
 # Others
 ~$*
